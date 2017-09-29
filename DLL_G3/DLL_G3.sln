@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLL_G3", "DLL_G3\DLL_G3.vcxproj", "{4F8A65E7-EC6B-4001-91DF-35531589351F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestForMyFunctions", "TestForMyFunctions\TestForMyFunctions.vcxproj", "{0D3405D9-DB78-420B-91A4-E5F8C3FDE714}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{5F222B71-99C7-46F3-92EC-F219A7386547}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.vcxproj", "{126E0C29-2EC8-4A43-B83F-C6888CE1389A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.vcxproj", "{653E3D4F-A8BF-4240-9365-E67DCAE3CC78}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UI", "UI\UI.vcxproj", "{8F03E861-ABC5-429B-B9B9-2BC0D3B36A92}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://g64swe-group3.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DLL_G3\\DLL_G3.vcxproj
+		SccProjectName1 = DLL_G3
+		SccLocalPath1 = DLL_G3
+		SccProjectUniqueName2 = TestForMyFunctions\\TestForMyFunctions.vcxproj
+		SccProjectName2 = TestForMyFunctions
+		SccLocalPath2 = TestForMyFunctions
+		SccProjectUniqueName3 = ConsoleApplication1\\ConsoleApplication1.vcxproj
+		SccProjectName3 = ConsoleApplication1
+		SccLocalPath3 = ConsoleApplication1
+		SccProjectUniqueName4 = ClassLibrary1\\ClassLibrary1.vcxproj
+		SccProjectName4 = ClassLibrary1
+		SccLocalPath4 = ClassLibrary1
+		SccProjectUniqueName5 = ConsoleApplication2\\ConsoleApplication2.vcxproj
+		SccProjectName5 = ConsoleApplication2
+		SccLocalPath5 = ConsoleApplication2
+		SccProjectUniqueName6 = UI\\UI.vcxproj
+		SccProjectName6 = UI
+		SccLocalPath6 = UI
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F8A65E7-EC6B-4001-91DF-35531589351F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4F8A65E7-EC6B-4001-91DF-35531589351F}.Debug|Win32.Build.0 = Debug|Win32
+		{4F8A65E7-EC6B-4001-91DF-35531589351F}.Release|Win32.ActiveCfg = Release|Win32
+		{4F8A65E7-EC6B-4001-91DF-35531589351F}.Release|Win32.Build.0 = Release|Win32
+		{0D3405D9-DB78-420B-91A4-E5F8C3FDE714}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0D3405D9-DB78-420B-91A4-E5F8C3FDE714}.Debug|Win32.Build.0 = Debug|Win32
+		{0D3405D9-DB78-420B-91A4-E5F8C3FDE714}.Release|Win32.ActiveCfg = Release|Win32
+		{0D3405D9-DB78-420B-91A4-E5F8C3FDE714}.Release|Win32.Build.0 = Release|Win32
+		{5F222B71-99C7-46F3-92EC-F219A7386547}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5F222B71-99C7-46F3-92EC-F219A7386547}.Debug|Win32.Build.0 = Debug|Win32
+		{5F222B71-99C7-46F3-92EC-F219A7386547}.Release|Win32.ActiveCfg = Release|Win32
+		{5F222B71-99C7-46F3-92EC-F219A7386547}.Release|Win32.Build.0 = Release|Win32
+		{126E0C29-2EC8-4A43-B83F-C6888CE1389A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{126E0C29-2EC8-4A43-B83F-C6888CE1389A}.Debug|Win32.Build.0 = Debug|Win32
+		{126E0C29-2EC8-4A43-B83F-C6888CE1389A}.Release|Win32.ActiveCfg = Release|Win32
+		{126E0C29-2EC8-4A43-B83F-C6888CE1389A}.Release|Win32.Build.0 = Release|Win32
+		{653E3D4F-A8BF-4240-9365-E67DCAE3CC78}.Debug|Win32.ActiveCfg = Debug|Win32
+		{653E3D4F-A8BF-4240-9365-E67DCAE3CC78}.Debug|Win32.Build.0 = Debug|Win32
+		{653E3D4F-A8BF-4240-9365-E67DCAE3CC78}.Release|Win32.ActiveCfg = Release|Win32
+		{653E3D4F-A8BF-4240-9365-E67DCAE3CC78}.Release|Win32.Build.0 = Release|Win32
+		{8F03E861-ABC5-429B-B9B9-2BC0D3B36A92}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8F03E861-ABC5-429B-B9B9-2BC0D3B36A92}.Debug|Win32.Build.0 = Debug|Win32
+		{8F03E861-ABC5-429B-B9B9-2BC0D3B36A92}.Release|Win32.ActiveCfg = Release|Win32
+		{8F03E861-ABC5-429B-B9B9-2BC0D3B36A92}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
